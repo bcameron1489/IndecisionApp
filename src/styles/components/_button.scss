@@ -1,3 +1,4 @@
+// Big Button
 .big-button {
   background: $purple;
   border: none;
@@ -6,7 +7,7 @@
   font-weight: bold;
   font-size: $l-size;
   margin-bottom: $xl-size;
-  padding-left: 2.4rem;
+  padding: 2.4rem;
   width: 100%;
 }
 
@@ -14,6 +15,7 @@
   opacity: .5;
 }
 
+// Button
 .button {
   background: $purple;
   border: none;
